@@ -69,7 +69,7 @@
 <h4 id="Journal"><a href="#Journal" class="headerlink" title="Journal:"></a>Journal:</h4><ul>
 <li>Xiang Chen, Yingquan Zhao, <strong>Zhanqi Cui</strong>, Guozhu Meng, Yang Liu and Zan. Wang. Large-Scale Empirical Studies on Effort-Aware Security Vulnerability Prediction Methods. IEEE Transactions on Reliability, vol. 69, no. 1, pp. 70-87, March 2020.</li>	
 <li>Zhidan Yuan, Xiang Chen, <strong>Zhanqi Cui</strong>, Yanzhou Mu. ALTRA: Cross-Project Software Defect Prediction via Active Learning and Tradaboost. in IEEE Access, vol. 8, pp. 30037-30049, 2020.</li>	
-<li>Minghua Jia, Xiaodong Wang, Yue Xu, <strong>Zhanqi Cui<sup>*</sup></strong>, and Ruilin Xie. Testing Machine Learning Classifiers based on Compositional Metamorphic Relations [J]. Int J Performability Eng, 2020, 16(1): 67-77.</li>
+<li>Minghua Jia, Xiaodong Wang, Yue Xu, <strong>Zhanqi Cui<sup>*</sup></strong>, and Ruilin Xie. Testing Machine Learning Classifiers based on Compositional Metamorphic Relations. International Journal of Performability Eng, 2020, 16(1): 67-77.</li>
 <li><strong>Zhanqi Cui</strong>, Xiang Chen, Liwei Zheng, Zhihua Zhang, Yongmin Mu. Detecting Defects Based on Mining and Confirming Programming Patterns From Different Versions of Projects. IEEE Access, vol. 7, pp. 144280-144291, 2019.</li>
 <li>Xiang Chen, Dun Zhang, <strong>Zhanqi Cui</strong>, Qing Gu, Xiaolin Ju. DP-Share: Privacy-Preserving Software Defect Prediction Model Sharing Through Differential Privacy. Journal of Computer Science and Technology, 2019, 34 (5): 1020-1038.</li>
 <li>董芷艺, 谢章伟, <strong>崔展齐<sup>*</sup></strong>.基于开发者模型的问题修复者推荐方法.北京信息科技大学学报(自然科学版),2019,34(03):64-67+78.</li>
@@ -84,6 +84,9 @@
 <li><strong>崔展齐</strong>，王林章，李宣东. 一种目标制导的混合执行测试方法. 《计算机学报》2011，34(06)：953-964.</li>
 </ul>
 <h4 id="Peer-Revivewed-Conference-and-Workshop-Papers"><a href="#Peer-Revivewed-Conference-and-Workshop-Papers" class="headerlink" title="Peer Revivewed Conference and Workshop Papers:"></a>Peer Revivewed Conference and Workshop Papers:</h4><ul>
+<li></li>
+<li>Zheng Li, <strong>Zhanqi Cui<sup>*</sup></strong>, Jianbin Liu, Liwei Zheng and Xiulei Liu, Testing Neural Network Classifiers Based on Metamorphic Relations, 2019 6th International Conference on Dependable Systems and Their Applications (DSA), Harbin, China, 2020, pp. 389-394.</li>
+<li>Minghua Jia, <strong>Zhanqi Cui<sup>*</sup></strong>, Yiwen Wu, Ruilin Xie and Xiulei Liu, SMFL Integrating Spectrum and Mutation for Fault Localization, 2019 6th International Conference on Dependable Systems and Their Applications (DSA), Harbin, China, 2020, pp. 511-512.</li>
 <li><strong>Zhanqi Cui</strong>, Xiang Chen, Yongmin Mu, Zhihua Zhang, and Xu Ma. Mining Function Call Sequence Patterns across Different Versions of the Project for Defect Detection. Annual Conference on Software Analysis, Testing and Evolution, 2018: 154-169.</li>
 <li>Dun Zhang, Xiang Chen, <strong>Zhanqi Cui</strong>, Xiaolin Ju. Software Defect Prediction Model Sharing under Differential Privacy. 15th International Conference on Advanced and Trusted Computing, 2018.(Accepted)</li>
 <li>Xiang Chen, Yuxiang Shen, <strong>Zhanqi Cui</strong>, Xiaolin Ju. Applying Feature Selection to Software Defect Prediction using Multi-objective Optimization. The 9th IEEE International COMPSAC Workshop on Software Test Automation. Turin, Italy, July 4, 2017.</li>
