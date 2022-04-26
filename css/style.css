@@ -26,7 +26,6 @@ h6,
 p,
 blockquote,
 pre,
-a,
 abbr,
 acronym,
 address,
@@ -214,9 +213,7 @@ body {
   font-size: 1em;
   color: #999;
 }
-.article-entry hr {
-  border: 1px dashed #ddd;
-}
+
 .article-entry strong {
   font-weight: bold;
 }
