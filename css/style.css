@@ -1,6 +1,7 @@
 body {
   width: 100%;
 }
+
 body:before,
 body:after {
   content: "";
@@ -161,7 +162,7 @@ body {
   left: 280px;
 }
 .outer {
-  max-width: 920px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -175,7 +176,7 @@ body {
 }
 @media screen and (min-width: 768px) {
   #main {
-    width: 768px;
+    width: 100%;
     padding-right: 50px;
     margin: 0 auto;
   }
